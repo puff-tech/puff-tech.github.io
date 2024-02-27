@@ -26,20 +26,20 @@
 }
 
 body {
-    background-color: rgb(0, 0, 150);
-    max-width: 700px;
-    color: #ffffff;
-    line-height: 2rem;
+    background-color: #ffffff;
+    max-width: 600px;
+    color: rgb(0, 0, 150);
+    line-height: 1.2rem;
     font-family: 'Noto Sans Mono', monospace;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: normal;
     margin: 40px auto;
     padding: 0 20px;
 }
 
 code {
-    font-size: 1.6rem;
-    color: #ffffff;
+    font-size: 0.8rem;
+    color: rgb(0,0,150);
 }
 
 note {
@@ -48,30 +48,30 @@ note {
 }
 
 h1 {
-    font-weight: 600;
-    font-size: 1.2rem;
-    margin-top: 2rem;
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-top: 1.5rem;
 }
 
 h2 {
-    font-size: 1.1rem;
-    font-weight: 500;
+    font-size: 0.9rem;
+    font-weight: 400;
 }
 
 hr {
     margin-top: 2em;
     border: none;
-    background-color: #ffffff;
-    color: #ffffff;
-    height: 1px;
+    background-color: rgb(0,0,150);
+    color: rgb(0, 0, 150);
+    height: 2px;
 }
 
 a {
-    color: rgb(250, 250, 50);
+    color: #535353;
 }
 
 a:hover {
-    color: #ccc;
+    color: rgb(250, 93, 50);
 }
 
 img {
